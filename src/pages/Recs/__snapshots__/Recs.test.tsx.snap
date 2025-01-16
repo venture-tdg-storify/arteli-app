@@ -1,0 +1,917 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Recs > live view 1`] = `
+<div
+  aria-expanded="false"
+  aria-level="1"
+  aria-posinset="1"
+  aria-rowindex="2"
+  aria-setsize="5"
+  class="MuiDataGrid-row MuiDataGrid-row--firstVisible"
+  data-id="auto-generated-row-null/27.G.co"
+  data-rowindex="0"
+  role="row"
+  style="max-height: 42px; min-height: 42px; --height: 42px;"
+>
+  <div
+    class="MuiDataGrid-cellOffsetLeft"
+    role="presentation"
+    style="width: 0px;"
+  />
+  <div
+    aria-colindex="1"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="0"
+    data-field="__tree_data_group__"
+    role="gridcell"
+    style="--width: 0px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-1woqzv9"
+    >
+      <div
+        style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+      >
+        8 Inch Bonnell Hybrid
+      </div>
+       
+      <button
+        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-w8yudd-MuiButtonBase-root-MuiIconButton-root"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          aria-hidden="true"
+          class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-chevron-down css-1psvy1y-MuiIcon-root"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    aria-colindex="2"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="1"
+    data-field="product.externalId"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+    title="M576"
+  >
+    M576
+  </div>
+  <div
+    aria-colindex="3"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="2"
+    data-field="category"
+    role="gridcell"
+    style="--width: 140px;"
+    tabindex="-1"
+    title="BEDDI"
+  >
+    BEDDI
+  </div>
+  <div
+    aria-colindex="4"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="3"
+    data-field="subcategory"
+    role="gridcell"
+    style="--width: 140px;"
+    tabindex="-1"
+    title="LSE"
+  >
+    LSE
+  </div>
+  <div
+    aria-colindex="5"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="4"
+    data-field="recStore.pastSales"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+  >
+    <span
+      class="css-1lb2v8f"
+      data-mui-internal-clone-element="true"
+    >
+      $0
+    </span>
+  </div>
+  <div
+    aria-colindex="6"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="5"
+    data-field="recStore.predictedSales"
+    role="gridcell"
+    style="--width: 155px;"
+    tabindex="-1"
+  >
+    $2,757
+  </div>
+  <div
+    aria-colindex="7"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="6"
+    data-field="daysOnFloor"
+    role="gridcell"
+    style="--width: 110px;"
+    tabindex="-1"
+  >
+    4
+  </div>
+</div>
+`;
+
+exports[`Recs > renders 1`] = `
+<div
+  aria-expanded="false"
+  aria-level="1"
+  aria-posinset="1"
+  aria-rowindex="2"
+  aria-setsize="3"
+  class="MuiDataGrid-row MuiDataGrid-row--firstVisible"
+  data-id="1849.G.co-My5DLlRXMTIuUy45"
+  data-rowindex="0"
+  role="row"
+  style="max-height: 42px; min-height: 42px; --height: 42px;"
+>
+  <div
+    class="MuiDataGrid-cellOffsetLeft"
+    role="presentation"
+    style="width: 0px;"
+  />
+  <div
+    aria-colindex="1"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="0"
+    data-field="__tree_data_group__"
+    role="gridcell"
+    style="--width: 0px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-1rngbkm"
+      type="group"
+    >
+      <span
+        aria-hidden="true"
+        aria-label=""
+        class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-circle-info css-7lkie7-MuiIcon-root"
+        data-mui-internal-clone-element="true"
+      />
+      <div
+        style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+      >
+        Foundation
+      </div>
+      <div
+        class="css-lbwqt3"
+        data-testid="expand-icon"
+      >
+        <span
+          aria-hidden="true"
+          class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-chevron-down css-1psvy1y-MuiIcon-root"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    aria-colindex="2"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="1"
+    data-field="product.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="3"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="2"
+    data-field="product.tags"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="4"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="3"
+    data-field="subcategory.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="5"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="4"
+    data-field="recommendedStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="1"
+  >
+    1
+  </div>
+  <div
+    aria-colindex="6"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="5"
+    data-field="recommendationAvg"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $159
+  </div>
+  <div
+    aria-colindex="7"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="6"
+    data-field="existingStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-24xv65"
+    >
+      <span
+        aria-valuemax="100"
+        aria-valuemin="0"
+        aria-valuenow="100"
+        class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate css-1ths1oq-MuiLinearProgress-root"
+        progress="#006837"
+        role="progressbar"
+      >
+        <span
+          class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate css-1o335xl-MuiLinearProgress-bar1"
+          style="transform: translateX(0%);"
+        />
+      </span>
+    </div>
+  </div>
+  <div
+    aria-colindex="8"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="7"
+    data-field="pastSalesSumOverAllStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $6,699
+  </div>
+  <div
+    aria-colindex="9"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="8"
+    data-field="pastSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    <span
+      class="css-1lb2v8f"
+      data-mui-internal-clone-element="true"
+    >
+      $0
+    </span>
+  </div>
+  <div
+    aria-colindex="10"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="9"
+    data-field="predictedSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $159
+  </div>
+  <div
+    aria-colindex="11"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft group-cell"
+    data-colindex="10"
+    data-field="actionStore.id"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-1vejrp2"
+    >
+      <div
+        class="MuiStack-root css-gyptnn-MuiStack-root"
+      >
+        <button
+          aria-label="Approve"
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary css-1xsbhi7-MuiButtonBase-root-MuiButton-root"
+          data-mui-internal-clone-element="true"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            aria-hidden="true"
+            class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-solid fa-circle-check css-15kho7h-MuiIcon-root"
+          />
+        </button>
+        <button
+          aria-label="Reject"
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary css-11vw2kt-MuiButtonBase-root-MuiButton-root"
+          data-mui-internal-clone-element="true"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            aria-hidden="true"
+            class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-solid fa-ban css-15kho7h-MuiIcon-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Recs > renders 2`] = `
+<div
+  aria-level="4"
+  aria-posinset="1"
+  aria-rowindex="7"
+  aria-setsize="1"
+  class="MuiDataGrid-row"
+  data-id="1849.G.co-3315.S.K4-Kit-17351.PV.pN-My5DLlRXMTIuUy45"
+  data-rowindex="5"
+  role="row"
+  style="max-height: 42px; min-height: 42px; --height: 42px;"
+>
+  <div
+    class="MuiDataGrid-cellOffsetLeft"
+    role="presentation"
+    style="width: 0px;"
+  />
+  <div
+    aria-colindex="1"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="0"
+    data-field="__tree_data_group__"
+    role="gridcell"
+    style="--width: 0px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-1dxqo7b"
+      type="product"
+    >
+      <div
+        style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+      >
+        Foundation Full Foundation Kit
+      </div>
+    </div>
+  </div>
+  <div
+    aria-colindex="2"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="1"
+    data-field="product.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="M98X22"
+  >
+    M98X22
+  </div>
+  <div
+    aria-colindex="3"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="2"
+    data-field="product.tags"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="4"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="3"
+    data-field="subcategory.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="FIR"
+  >
+    FIR
+  </div>
+  <div
+    aria-colindex="5"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="4"
+    data-field="recommendedStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="6"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="5"
+    data-field="recommendationAvg"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="7"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="6"
+    data-field="existingStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="8"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="7"
+    data-field="pastSalesSumOverAllStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="9"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="8"
+    data-field="pastSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="10"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="9"
+    data-field="predictedSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="11"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="10"
+    data-field="actionStore.id"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+  />
+</div>
+`;
+
+exports[`Recs > renders 3`] = `
+<div
+  aria-level="4"
+  aria-posinset="1"
+  aria-rowindex="6"
+  aria-setsize="1"
+  class="MuiDataGrid-row"
+  data-id="1849.G.co-3315.S.K4-Component-17342.PV.pN-My5DLlRXMTIuUy45"
+  data-rowindex="4"
+  role="row"
+  style="max-height: 42px; min-height: 42px; --height: 42px;"
+>
+  <div
+    class="MuiDataGrid-cellOffsetLeft"
+    role="presentation"
+    style="width: 0px;"
+  />
+  <div
+    aria-colindex="1"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="0"
+    data-field="__tree_data_group__"
+    role="gridcell"
+    style="--width: 0px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-1dxqo7b"
+      type="product"
+    >
+      <div
+        style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+      >
+        Foundation King Foundation Component
+      </div>
+    </div>
+  </div>
+  <div
+    aria-colindex="2"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="1"
+    data-field="product.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="M95X42"
+  >
+    M95X42
+  </div>
+  <div
+    aria-colindex="3"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="2"
+    data-field="product.tags"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="4"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="3"
+    data-field="subcategory.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="FIR"
+  >
+    FIR
+  </div>
+  <div
+    aria-colindex="5"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="4"
+    data-field="recommendedStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="1"
+  >
+    1
+  </div>
+  <div
+    aria-colindex="6"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="5"
+    data-field="recommendationAvg"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $21
+  </div>
+  <div
+    aria-colindex="7"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="6"
+    data-field="existingStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-24xv65"
+    >
+      <span
+        aria-valuemax="100"
+        aria-valuemin="0"
+        aria-valuenow="13"
+        class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate css-1avebla-MuiLinearProgress-root"
+        progress="#d73027"
+        role="progressbar"
+      >
+        <span
+          class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate css-1o335xl-MuiLinearProgress-bar1"
+          style="transform: translateX(-87%);"
+        />
+      </span>
+    </div>
+  </div>
+  <div
+    aria-colindex="8"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="7"
+    data-field="pastSalesSumOverAllStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $285
+  </div>
+  <div
+    aria-colindex="9"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="8"
+    data-field="pastSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    <span
+      class="css-1lb2v8f"
+      data-mui-internal-clone-element="true"
+    >
+      $0
+    </span>
+  </div>
+  <div
+    aria-colindex="10"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="9"
+    data-field="predictedSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $21
+  </div>
+  <div
+    aria-colindex="11"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="10"
+    data-field="actionStore.id"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+  />
+</div>
+`;
+
+exports[`Recs > renders 4`] = `
+<div
+  aria-level="3"
+  aria-posinset="1"
+  aria-rowindex="4"
+  aria-setsize="3"
+  class="MuiDataGrid-row"
+  data-id="1849.G.co-3315.S.K4-17341.PV.pN-My5DLlRXMTIuUy45"
+  data-rowindex="2"
+  role="row"
+  style="max-height: 42px; min-height: 42px; --height: 42px;"
+>
+  <div
+    class="MuiDataGrid-cellOffsetLeft"
+    role="presentation"
+    style="width: 0px;"
+  />
+  <div
+    aria-colindex="1"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="0"
+    data-field="__tree_data_group__"
+    role="gridcell"
+    style="--width: 0px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-11if909"
+      type="product"
+    >
+      <div
+        style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+      >
+        Foundation Queen Foundation
+      </div>
+    </div>
+  </div>
+  <div
+    aria-colindex="2"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="1"
+    data-field="product.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="M95X32"
+  >
+    M95X32
+  </div>
+  <div
+    aria-colindex="3"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="2"
+    data-field="product.tags"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="4"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="3"
+    data-field="subcategory.externalId"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="FIR"
+  >
+    FIR
+  </div>
+  <div
+    aria-colindex="5"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="4"
+    data-field="recommendedStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+    title="1"
+  >
+    1
+  </div>
+  <div
+    aria-colindex="6"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="5"
+    data-field="recommendationAvg"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $9
+  </div>
+  <div
+    aria-colindex="7"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="6"
+    data-field="existingStoresCnt"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-24xv65"
+    >
+      <span
+        aria-valuemax="100"
+        aria-valuemin="0"
+        aria-valuenow="6"
+        class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate css-1avebla-MuiLinearProgress-root"
+        progress="#d73027"
+        role="progressbar"
+      >
+        <span
+          class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate css-1o335xl-MuiLinearProgress-bar1"
+          style="transform: translateX(-94%);"
+        />
+      </span>
+    </div>
+  </div>
+  <div
+    aria-colindex="8"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="7"
+    data-field="pastSalesSumOverAllStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $522
+  </div>
+  <div
+    aria-colindex="9"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="8"
+    data-field="pastSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    <span
+      class="css-1lb2v8f"
+      data-mui-internal-clone-element="true"
+    >
+      $0
+    </span>
+  </div>
+  <div
+    aria-colindex="10"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="9"
+    data-field="predictedSalesSumOverFilteredAddableStores"
+    role="gridcell"
+    style="--width: 100px;"
+    tabindex="-1"
+  >
+    $9
+  </div>
+  <div
+    aria-colindex="11"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="10"
+    data-field="actionStore.id"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+  />
+</div>
+`;

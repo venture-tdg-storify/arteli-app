@@ -1,0 +1,48 @@
+name: Verify
+
+on:
+  pull_request:
+    branches:
+      - dev
+      - main
+
+env:
+  # Setting an environment variable with the value of a configuration variable
+  SENTRY_AUTH_TOKEN: ${{ vars.SENTRY_AUTH_TOKEN }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: pnpm/action-setup@v4
+        name: Install pnpm
+        with:
+          version: 9.4.0
+          run_install: false
+
+      - name: Use Node.js 22
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22.4.0
+          cache: 'pnpm'
+
+      - name: Check for Sentry Token
+        run: |
+          if [ -z "$SENTRY_AUTH_TOKEN" ]; then
+            echo "The SENTRY_AUTH_TOKEN environment variable is not set. Exiting..."
+            exit 1
+          fi
+
+      - name: Install Dependencies
+        run: pnpm install
+
+      - name: Typecheck
+        run: pnpm typecheck
+
+      - name: Test
+        run: pnpm test -- --coverage --bail 1 --pool=threads
+
+      - name: Build
+        run: pnpm build

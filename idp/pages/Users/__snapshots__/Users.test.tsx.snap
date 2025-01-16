@@ -1,0 +1,39 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Users > update user 1`] = `
+<tr
+  class="MuiTableRow-root MuiTableRow-hover css-15dxpbw-MuiTableRow-root"
+>
+  <th
+    class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-18ly06r-MuiTableCell-root"
+    scope="row"
+  >
+    2!U-mhErmw
+  </th>
+  <td
+    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium css-8dlgr9-MuiTableCell-root"
+  >
+    Aleksa Santic
+  </td>
+  <td
+    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium css-8dlgr9-MuiTableCell-root"
+  >
+    zoran@arteli.com
+  </td>
+  <td
+    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium css-iq2f9k-MuiTableCell-root"
+  >
+    Active
+  </td>
+  <td
+    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium css-8dlgr9-MuiTableCell-root"
+  >
+    Staff
+  </td>
+  <td
+    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium css-8dlgr9-MuiTableCell-root"
+  >
+    8/10/2021
+  </td>
+</tr>
+`;
