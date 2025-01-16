@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/idp/(.*)",
+      "destination": "/idp/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/src/index.html"
+    }
+  ]
+}

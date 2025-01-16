@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`FileUploadCenter > download csv 1`] = `
+[
+  "Product Id,Flag
+        P560-835,Disco
+        P560-821,Planned Drop",
+]
+`;

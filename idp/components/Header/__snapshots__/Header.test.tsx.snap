@@ -1,0 +1,119 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Header > renders and navigates on tab click 1`] = `
+<header
+  class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-190aunc-MuiPaper-root-MuiAppBar-root"
+  role="navigation"
+  style="--Paper-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);"
+>
+  <div
+    class="css-5rk5p2"
+  />
+  <a
+    aria-current="page"
+    class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1m1axww-MuiTypography-root-MuiLink-root active"
+    href="/"
+  >
+    <svg
+      fill="none"
+      height="24"
+      viewBox="0 0 109 24"
+      width="109"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g
+        clip-path="url(#clip0_533_66812)"
+      >
+        <path
+          d="M9.93258 6.49235C9.32577 5.26019 9.32621 3.76842 9.93387 2.53723C10.6046 1.17575 11.8869 0.331543 13.2776 0.331543C14.6682 0.331543 15.9509 1.17575 16.6187 2.53723L22.4254 14.3193C22.5506 14.5736 22.3853 14.8845 22.1247 14.8845L22.1244 14.885C17.1559 14.885 12.5816 11.87 10.1918 7.01883L9.93258 6.49235ZM9.05218 7.29968V7.2992C8.74813 6.68215 7.95211 6.68166 7.64762 7.29871L0.108918 22.5642C-0.209921 23.2098 0.209394 23.9998 0.871443 23.9998H5.95161C7.25482 23.9998 8.45363 23.2064 9.0761 21.9316C11.3058 17.3673 11.2967 11.8539 9.05218 7.29968ZM26.4529 22.569L23.7355 16.9898L23.7351 16.9893C23.4779 16.462 22.9826 16.1331 22.4436 16.1331H21.2682C16.844 16.1331 12.733 18.5233 10.1979 22.4716C9.78772 23.1105 10.2031 23.9992 10.9087 23.9992H25.6882C26.3475 23.9992 26.7673 23.2141 26.4529 22.569Z"
+          fill="#1C1C1C"
+        />
+        <path
+          d="M46.6657 9.27406C45.4313 7.58814 43.5049 6.50391 40.8566 6.50391C35.9805 6.50391 32.5198 10.298 32.5198 15.2366C32.5198 20.2038 35.9504 23.9979 40.8566 23.9994C43.5049 23.9994 45.4313 22.9453 46.6657 21.2293V23.6375H49.5552V6.83564H46.6657V9.27406ZM41.0978 21.3484C37.937 21.3484 35.5298 18.8195 35.5298 15.2366C35.5298 11.6536 38.0576 9.15493 41.0978 9.15493C44.138 9.15493 46.6356 11.6838 46.6356 15.2366C46.6356 18.7893 44.138 21.3484 41.0978 21.3484ZM66.2756 6.83568H70.5187V9.42487H66.2756V19.2704C66.2756 20.5054 66.9675 21.0468 68.202 21.0468H70.3996V23.636H67.5403C65.0427 23.636 63.3575 22.4613 63.3575 19.5705L63.356 19.572V9.42486H61.2533L60.0445 9.42487H56.8837C55.6492 9.42487 54.9574 9.96624 54.9574 11.2013V23.6375H52.0377V10.9012C52.0377 8.01039 53.7229 6.83568 56.222 6.83568H60.3459L63.356 6.83566V3.49398H66.2756V6.83568ZM79.775 6.47379C74.8386 6.47379 71.197 10.1186 71.197 15.2367L71.1985 15.2352C71.1985 20.3548 74.81 23.9981 79.7765 23.9981C83.9592 23.9981 86.9693 21.7391 87.7214 18.4578H84.6812C83.9291 20.4754 81.852 21.4993 79.8051 21.4993C76.8554 21.4993 74.5688 19.3007 74.2372 16.0194H88.142C88.2023 15.3559 88.2023 14.543 88.142 13.8207C87.7802 9.5757 84.2893 6.47379 79.775 6.47379ZM74.3578 13.7317C74.8989 10.8409 77.0664 8.97402 79.8051 8.97402C82.0917 8.97402 84.6797 10.6298 85.1319 13.7317H74.3578ZM95.6377 21.2279H99.611V23.6361H88.8368V21.2279H92.688V3.95849C92.688 3.28593 92.1423 2.74004 91.4701 2.74004H89.2574V0.3318H92.4528C94.2118 0.3318 95.6377 1.75835 95.6377 3.51814V21.2279ZM101.087 2.07799C101.087 0.933438 102.02 0 103.164 0C104.308 0 105.241 0.963597 105.241 2.07799C105.241 3.19239 104.308 4.18614 103.164 4.18614C102.02 4.18614 101.087 3.22255 101.087 2.07799ZM109 21.0483V23.6375H106.141C103.643 23.6375 101.958 22.4628 101.958 19.572V9.42489H98.9478V6.83569H104.877V19.2704C104.877 20.5054 105.569 21.0468 106.804 21.0468L106.802 21.0483L109 21.0483Z"
+          fill="#1C1C1C"
+        />
+      </g>
+      <defs>
+        <clippath
+          id="clip0_533_66812"
+        >
+          <rect
+            fill="white"
+            height="24"
+            width="109"
+          />
+        </clippath>
+      </defs>
+    </svg>
+  </a>
+  <div
+    class="MuiTabs-root css-8iwl9i-MuiTabs-root"
+  >
+    <div
+      class="MuiTabs-scroller MuiTabs-fixed css-1626ypp-MuiTabs-scroller"
+      style="overflow: hidden; margin-bottom: 0px;"
+    >
+      <div
+        aria-label="header tabs"
+        class="MuiTabs-flexContainer css-c4tq27-MuiTabs-flexContainer"
+        role="tablist"
+      >
+        <button
+          aria-controls="header-tabpanel-0"
+          aria-selected="true"
+          class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary MuiTab-fullWidth Mui-selected css-c171vb-MuiButtonBase-root-MuiTab-root"
+          id="header-tab-0"
+          role="tab"
+          tabindex="0"
+          type="button"
+        >
+          Companies
+        </button>
+        <button
+          aria-controls="header-tabpanel-1"
+          aria-selected="false"
+          class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary MuiTab-fullWidth css-c171vb-MuiButtonBase-root-MuiTab-root"
+          id="header-tab-1"
+          role="tab"
+          tabindex="-1"
+          type="button"
+        >
+          Customers
+        </button>
+      </div>
+      <span
+        class="MuiTabs-indicator css-1r2azau-MuiTabs-indicator"
+        style="left: 0px; width: 0px;"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root css-zdpt2t"
+  >
+    <button
+      aria-haspopup="true"
+      aria-label="menu"
+      class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-zcsxsc-MuiButtonBase-root-MuiButton-root"
+      id="basic-button"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1wphdyp-MuiAvatar-root"
+      >
+        <span
+          aria-hidden="true"
+          class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-solid fa-user css-11vstcx-MuiIcon-root"
+        />
+      </div>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1s6opat-MuiTypography-root"
+      />
+      <span
+        aria-hidden="true"
+        class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-caret-down css-11vstcx-MuiIcon-root"
+      />
+    </button>
+  </div>
+</header>
+`;

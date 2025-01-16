@@ -1,0 +1,328 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Plan > download csv 1`] = `
+[
+  "Store,Action (Add),Series (Add),Category (Add),Sub-Category (Add),Action (Removal),Series (Removal),Category (Removal),Sub-Category (Removal),Notes
+"077 ASHLEY HOMESTORE - SASKATOON","Add","10 Inch Chime Elite","BEDDI","","Remove","Ultra Luxury PT with Latex","BEDDI","",""
+"085 ASHLEY HOMESTORE - EDMONTON N","Add","Tulen","MOTION","","","","","",""
+"085 ASHLEY HOMESTORE - EDMONTON N","Add","Gerridan, Senniburg & Cottonburg","BEDRO","","Remove","Blariden","BEDRO","",""
+"085 ASHLEY HOMESTORE - EDMONTON N","Add","Janismore, Kanwyn & Beckincreek","CASEG","","Remove","Store Display","CASEG","",""
+"262 ASHLEY HOMESTORE - ABBOTSFORD","Add","Ginette","ACCESS","","Remove","Chime 8 Inch Memory Foam","BEDDI","",""",
+]
+`;
+
+exports[`Plan > renders and finalize 1`] = `
+<div
+  aria-level="2"
+  aria-posinset="1"
+  aria-rowindex="10"
+  aria-setsize="2"
+  class="border-x MuiDataGrid-row"
+  data-id="29.AS.Wv"
+  data-rowindex="8"
+  role="row"
+  style="max-height: 42px; min-height: 42px; --height: 42px;"
+>
+  <div
+    class="MuiDataGrid-cellOffsetLeft"
+    role="presentation"
+    style="width: 0px;"
+  />
+  <div
+    aria-colindex="1"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="0"
+    data-field="__tree_data_group__"
+    role="gridcell"
+    style="--width: 0px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-t0veqa"
+    >
+      <span
+        aria-hidden="true"
+        class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-circle-plus css-q6hptw-MuiIcon-root"
+      />
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-noWrap css-1jxvw8s-MuiTypography-root"
+      >
+        Ginette
+      </p>
+    </div>
+  </div>
+  <div
+    aria-colindex="2"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="1"
+    data-field="productTags"
+    role="gridcell"
+    style="--width: 110px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="3"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="2"
+    data-field="category"
+    role="gridcell"
+    style="--width: 160px;"
+    tabindex="-1"
+    title="ACCESS"
+  >
+    ACCESS
+  </div>
+  <div
+    aria-colindex="4"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="3"
+    data-field="subcategory"
+    role="gridcell"
+    style="--width: 160px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="5"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="4"
+    data-field="actionStore"
+    role="gridcell"
+    style="--width: 200px;"
+    tabindex="-1"
+  >
+    $382
+  </div>
+  <div
+    aria-colindex="6"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft column-status"
+    data-colindex="5"
+    data-field="status"
+    role="gridcell"
+    style="--width: 150px;"
+    tabindex="-1"
+    title="Inactive Series"
+  >
+    Inactive Series
+  </div>
+  <div
+    aria-colindex="7"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft  action-cell"
+    data-colindex="6"
+    data-field="actionStore.id"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-t0p9g4"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth css-f1emby-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiBadge-root css-106oumi-MuiBadge-root"
+        >
+          Edit
+          <span
+            class="MuiBadge-badge MuiBadge-dot MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightRectangular MuiBadge-overlapRectangular MuiBadge-colorWarning css-1x6n29b-MuiBadge-badge"
+          />
+        </span>
+        <span
+          class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeSmall css-pctag4-MuiButton-endIcon"
+        >
+          <span
+            aria-hidden="true"
+            class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-solid fa-caret-down css-1v57yr4-MuiIcon-root"
+          />
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Plan > renders and finalize 2`] = `
+<div
+  aria-level="2"
+  aria-posinset="1"
+  aria-rowindex="4"
+  aria-setsize="5"
+  class="border-x MuiDataGrid-row"
+  data-id="35.AS.Wv"
+  data-rowindex="2"
+  role="row"
+  style="max-height: 42px; min-height: 42px; --height: 42px;"
+>
+  <div
+    class="MuiDataGrid-cellOffsetLeft"
+    role="presentation"
+    style="width: 0px;"
+  />
+  <div
+    aria-colindex="1"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="0"
+    data-field="__tree_data_group__"
+    role="gridcell"
+    style="--width: 0px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-t0veqa"
+    >
+      <span
+        aria-hidden="true"
+        class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-circle-plus css-q6hptw-MuiIcon-root"
+      />
+      <div
+        class="MuiStack-root css-qdm7nt-MuiStack-root"
+      >
+        <div
+          aria-label="Exclusive"
+          class="css-1d30i4y"
+          data-mui-internal-clone-element="true"
+        >
+          <span
+            aria-hidden="true"
+            class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-cart-flatbed css-1k2p8q-MuiIcon-root"
+          />
+        </div>
+        <div
+          aria-label="New"
+          class="css-1nm3bg5"
+          data-mui-internal-clone-element="true"
+        >
+          <span
+            aria-hidden="true"
+            class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-sparkles css-1k2p8q-MuiIcon-root"
+          />
+        </div>
+      </div>
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-noWrap css-1jxvw8s-MuiTypography-root"
+      >
+        Tulen
+      </p>
+    </div>
+  </div>
+  <div
+    aria-colindex="2"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="1"
+    data-field="productTags"
+    role="gridcell"
+    style="--width: 110px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="3"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="2"
+    data-field="category"
+    role="gridcell"
+    style="--width: 160px;"
+    tabindex="-1"
+    title="MOTION"
+  >
+    MOTION
+  </div>
+  <div
+    aria-colindex="4"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="3"
+    data-field="subcategory"
+    role="gridcell"
+    style="--width: 160px;"
+    tabindex="-1"
+  />
+  <div
+    aria-colindex="5"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft"
+    data-colindex="4"
+    data-field="actionStore"
+    role="gridcell"
+    style="--width: 200px;"
+    tabindex="-1"
+  >
+    $17,125
+  </div>
+  <div
+    aria-colindex="6"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft column-status"
+    data-colindex="5"
+    data-field="status"
+    role="gridcell"
+    style="--width: 150px;"
+    tabindex="-1"
+    title="Now on floor"
+  >
+    Now on floor
+  </div>
+  <div
+    aria-colindex="7"
+    aria-colspan="1"
+    aria-rowspan="1"
+    class="MuiDataGrid-cell MuiDataGrid-cell--textLeft  action-cell"
+    data-colindex="6"
+    data-field="actionStore.id"
+    role="gridcell"
+    style="--width: 120px;"
+    tabindex="-1"
+  >
+    <div
+      class="css-d6gvgg"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth css-f1emby-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiBadge-root css-106oumi-MuiBadge-root"
+        >
+          Edit
+          <span
+            class="MuiBadge-badge MuiBadge-dot MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightRectangular MuiBadge-overlapRectangular MuiBadge-colorWarning css-1x6n29b-MuiBadge-badge"
+          />
+        </span>
+        <span
+          class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeSmall css-pctag4-MuiButton-endIcon"
+        >
+          <span
+            aria-hidden="true"
+            class="fal notranslate MuiIcon-root MuiIcon-fontSizeMedium fa-solid fa-caret-down css-1v57yr4-MuiIcon-root"
+          />
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
