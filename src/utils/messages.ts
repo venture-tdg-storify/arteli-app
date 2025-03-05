@@ -49,7 +49,7 @@ export const commonMessages = defineMessages({
   avgMonthlyPastSales: { defaultMessage: 'Past Sales', id: 'i6dcrc' },
   avgMonthlyPredictedSales: { defaultMessage: 'Predicted Sales', id: 'erj0Av' },
   currentRank: { defaultMessage: 'Current Rank', id: 'po0br1' },
-  dataAdminCenter: { defaultMessage: 'Data Center', id: '3i7Hau' },
+  dataAdminCenter: { defaultMessage: 'Testing Deployment', id: 't4u3TN' },
   plan: { defaultMessage: 'Plan', id: 'fz0z4c' },
   somethingWentWrong: { defaultMessage: 'Something went wrong', id: 'JqiqNj' },
   predictedSales: { defaultMessage: 'Predicted Sales', id: 'erj0Av' },
